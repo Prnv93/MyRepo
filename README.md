@@ -4,4 +4,4 @@
 # Hey
 Testing the conflicts
 Resolving conflicts
-
+Resolving Second conflict
