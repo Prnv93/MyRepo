@@ -3,4 +3,5 @@
 # Hello All
 # Hey
 Testing the conflicts
+Resolving conflicts
 
