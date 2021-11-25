@@ -2,4 +2,4 @@
 # Hello India
 # Hello All
 # Hey
-
+Resolving conflicts
